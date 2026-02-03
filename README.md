@@ -2,9 +2,7 @@
 ## Date: 30.1.2026
 
 ## AIM
-To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
-
-## ENTITY RELATIONSHIP DIAGRAM
+To develop a Django Application to store and retrieve data from an Online Food Delivery Database platform like Zomato or Swiggy using Object Relational Mapping(ORM)
 
 
 
@@ -70,7 +68,7 @@ urlpatterns = [
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-01-30 114825.png>)
+![alt text](<Screenshot 2026-01-31 113723.png>)
 
 
 ## RESULT
