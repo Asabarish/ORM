@@ -72,4 +72,4 @@ urlpatterns = [
 
 
 ## RESULT
-Thus the program for creating E-commerce website database using ORM hass been executed successfully
+Thus the program for retrieving  data from an Online Food Delivery Database platform like Zomato or Swiggy  website database using ORM hass been executed successfull
